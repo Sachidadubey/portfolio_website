@@ -1,5 +1,11 @@
----------------------------------------------------------------------------# 🚀 Sachida Dhar Dubey — Portfolio Website--------------------------------------------------------------
-                            
+# 🚀 Sachida Dhar Dubey — Portfolio Website
+
+<div align="center">
+
+![Portfolio](https://img.shields.io/badge/Sachida%20Dhar%20Dubey-Backend%20Developer-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=39ff14)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)
+![Built With](https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge)
+
 **A sleek, dark-themed personal portfolio — pure HTML, CSS & JS. No frameworks. Pure craft.**
 
 [🌐 Live Demo](https://sachidadubey.github.io/portfolio_website/) &nbsp;•&nbsp; [📧 Contact](mailto:sachidanand2580@gmail.com) &nbsp;•&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/sachida-dhar-dubey) &nbsp;•&nbsp; [🐙 GitHub](https://github.com/Sachidadubey)
@@ -11,22 +17,22 @@
 ## 📸 Screenshots
 
 ### 🏠 Hero Section
-![Hero](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/screenshots/hero.png)
+![Hero](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshot/hero.png)
 
 ### 👤 About Section
-![About](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/screenshots/about.png)
+![About](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshot/about.png)
 
 ### 🛠️ Tech Stack
-![Skills](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/screenshots/skills.png)
+![Skills](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshot/skills.png)
 
 ### 📦 Projects
-![Projects](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/screenshots/projects.png)
+![Projects](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshot/projects.png)
 
 ### 🗓️ Journey
-![Journey](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/screenshots/journey.png)
+![Journey](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshot/journey.png)
 
 ### 📬 Contact
-![Contact](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/screenshots/contact.png)
+![Contact](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshot/contact.png)
 
 ---
 
@@ -49,7 +55,7 @@ portfolio_website/
 ├── index.html          # All sections
 ├── style.css           # Styles, animations, layout
 ├── main.js             # Cursor, canvas, scroll logic
-└── screenshots/        # Section screenshots (for README)
+└── screenshot/         # Section screenshots
     ├── hero.png
     ├── about.png
     ├── skills.png
