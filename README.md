@@ -11,22 +11,22 @@
 ## 📸 Screenshots
 
 ### 🏠 Hero Section
-![Hero](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshots/hero.png)
+![Hero](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/screenshots/hero.png)
 
 ### 👤 About Section
-![About](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshots/about.png)
+![About](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/screenshots/about.png)
 
 ### 🛠️ Tech Stack
-![Skills](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshots/skills.png)
+![Skills](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/screenshots/skills.png)
 
 ### 📦 Projects
-![Projects](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshots/projects.png)
+![Projects](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/screenshots/projects.png)
 
 ### 🗓️ Journey
-![Journey](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshots/journey.png)
+![Journey](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/screenshots/journey.png)
 
 ### 📬 Contact
-![Contact](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshots/contact.png)
+![Contact](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/screenshots/contact.png)
 
 ---
 
