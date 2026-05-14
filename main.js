@@ -166,3 +166,15 @@ const countObs = new IntersectionObserver(entries => {
 }, { threshold: 0.3 });
 
 document.querySelectorAll('.about-stats').forEach(el => countObs.observe(el));
+// ─── CONTACT FORM ───
+function sendMsg() {
+  const inputs = document.querySelectorAll('.contact-form input, .contact-form textarea');
+  let ok = true;
+  inputs.forEach(i => { if (!i.value.trim()) ok = false; });
+  if (!ok) { alert('Please fill all fields!'); return; }
+  const btn = document.querySelector('.submit-btn');
+  btn.textContent = '✓ Sent! Will get back to you soon.';
+  btn.style.background = '#7c3aed';
+  inputs.forEach(i => i.value = '');
+  setTimeout(() => { btn.textContent = 'Send Message →'; btn.style.background = ''; }, 3000);
+}
