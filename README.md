@@ -4,7 +4,7 @@
 
 **A sleek, dark-themed personal portfolio — pure HTML, CSS & JS. No frameworks. Pure craft.**
 
-[🌐 Live Demo](https://sachidadubey.github.io/portfolio_website/) &nbsp;•&nbsp; [📧 Contact](mailto:sachidanand2580@gmail.com) &nbsp;•&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/sachida-dhar-dubey) &nbsp;•&nbsp; [🐙 GitHub](https://github.com/Sachidadubey)
+[🌐 Live Demo](https://sachidadubey.github.io/portfolio_website/) &nbsp;•&nbsp; [📧 Contact](mailto:sachidanand2580@gmail.com) &nbsp;•&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/sachida-dhar-dubey-766a22225/) &nbsp;•&nbsp; [🐙 GitHub](https://github.com/Sachidadubey)
 
 </div>
 
@@ -13,21 +13,27 @@
 ## 📸 Screenshots
 
 ### 🏠 Hero Section
+
 ![Hero](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshot/hero.png)
 
 ### 👤 About Section
+
 ![About](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshot/about.png)
 
 ### 🛠️ Tech Stack
+
 ![Skills](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshot/skills.png)
 
 ### 📦 Projects
+
 ![Projects](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshot/projects.png)
 
 ### 🗓️ Journey
+
 ![Journey](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshot/journey.png)
 
 ### 📬 Contact
+
 ![Contact](https://raw.githubusercontent.com/Sachidadubey/portfolio_website/master/screenshot/contact.png)
 
 ---
@@ -64,33 +70,34 @@ portfolio_website/
 
 ## 📋 Sections
 
-| Section | Description |
-|---|---|
-| **Hero** | Name, availability badge, tagline, 4 stat cards |
-| **About** | Bio, terminal config card, OCI cert badge, animated numbers |
-| **Stack** | 6 skill cards — Backend / DB / Auth / Payments / Frontend / DevOps |
-| **Work** | 3 project cards — BugPilot AI (featured), Wanderlust, E-Commerce API |
-| **Journey** | Vertical timeline — education, certifications, projects |
-| **Contact** | Email CTA, GitHub, LinkedIn, live project links |
+| Section     | Description                                                          |
+| ----------- | -------------------------------------------------------------------- |
+| **Hero**    | Name, availability badge, tagline, 4 stat cards                      |
+| **About**   | Bio, terminal config card, OCI cert badge, animated numbers          |
+| **Stack**   | 6 skill cards — Backend / DB / Auth / Payments / Frontend / DevOps   |
+| **Work**    | 3 project cards — BugPilot AI (featured), Wanderlust, E-Commerce API |
+| **Journey** | Vertical timeline — education, certifications, projects              |
+| **Contact** | Email CTA, GitHub, LinkedIn, live project links                      |
 
 ---
 
 ## 🧰 Tech Used
 
-| Layer | Technology |
-|---|---|
-| Markup | HTML5 |
-| Styling | CSS3 (Custom Properties, Flexbox, Grid, Animations) |
-| Logic | Vanilla JavaScript (ES6+) |
-| Fonts | Space Grotesk · JetBrains Mono · Bebas Neue (Google Fonts) |
-| Background | HTML5 Canvas API |
-| Scroll Animations | Intersection Observer API |
+| Layer             | Technology                                                 |
+| ----------------- | ---------------------------------------------------------- |
+| Markup            | HTML5                                                      |
+| Styling           | CSS3 (Custom Properties, Flexbox, Grid, Animations)        |
+| Logic             | Vanilla JavaScript (ES6+)                                  |
+| Fonts             | Space Grotesk · JetBrains Mono · Bebas Neue (Google Fonts) |
+| Background        | HTML5 Canvas API                                           |
+| Scroll Animations | Intersection Observer API                                  |
 
 ---
 
 ## 🚀 Projects Featured
 
 ### ⭐ BugPilot AI — AI-Powered Debugging SaaS
+
 > Production SaaS across 3 platforms — Web App, Chrome Extension (Side Panel API), VS Code Extension (Webview)
 
 - Gemini AI returns root cause + fix from any error, log, or screenshot
@@ -106,6 +113,7 @@ portfolio_website/
 ---
 
 ### 🏕️ Wanderlust — Full-Stack Travel Platform
+
 > Airbnb-inspired platform with real Razorpay payments, Mapbox maps, and automated emails
 
 - Role-based admin dashboard with live revenue analytics
@@ -121,6 +129,7 @@ portfolio_website/
 ---
 
 ### 🛒 E-Commerce Backend — Enterprise-Grade REST API
+
 > Full order lifecycle, cron-based payment recovery, Zod validation on every request
 
 - Cart, wishlist, coupons, reviews, support tickets
@@ -156,11 +165,11 @@ open index.html
 
 ## 📬 Contact
 
-| Platform | Link |
-|---|---|
-| 📧 Email | [sachidanand2580@gmail.com](mailto:sachidanand2580@gmail.com) |
+| Platform    | Link                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------ |
+| 📧 Email    | [sachidanand2580@gmail.com](mailto:sachidanand2580@gmail.com)                        |
 | 💼 LinkedIn | [linkedin.com/in/sachida-dhar-dubey](https://www.linkedin.com/in/sachida-dhar-dubey) |
-| 🐙 GitHub | [github.com/Sachidadubey](https://github.com/Sachidadubey) |
+| 🐙 GitHub   | [github.com/Sachidadubey](https://github.com/Sachidadubey)                           |
 
 ---
 
