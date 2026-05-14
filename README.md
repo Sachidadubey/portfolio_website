@@ -2,10 +2,6 @@
 
 <div align="center">
 
-![Portfolio](https://img.shields.io/badge/Sachida%20Dhar%20Dubey-Backend%20Developer-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=39ff14)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)
-![Built With](https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge)
-
 **A sleek, dark-themed personal portfolio — pure HTML, CSS & JS. No frameworks. Pure craft.**
 
 [🌐 Live Demo](https://sachidadubey.github.io/portfolio_website/) &nbsp;•&nbsp; [📧 Contact](mailto:sachidanand2580@gmail.com) &nbsp;•&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/sachida-dhar-dubey) &nbsp;•&nbsp; [🐙 GitHub](https://github.com/Sachidadubey)
